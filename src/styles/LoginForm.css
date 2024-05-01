@@ -1,0 +1,19 @@
+.login-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.login-form .MuiTextField-root {
+    margin-bottom: 20px;
+}
+
+.login-form .MuiButton-root {
+    margin-top: 20px;
+}
