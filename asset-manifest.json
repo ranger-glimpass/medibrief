@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/medibrief/static/css/main.5a6f6fd0.css",
-    "main.js": "/medibrief/static/js/main.2da01818.js",
+    "main.css": "/medibrief/static/css/main.ed8c3b43.css",
+    "main.js": "/medibrief/static/js/main.e4357072.js",
     "static/js/453.00a9dfc2.chunk.js": "/medibrief/static/js/453.00a9dfc2.chunk.js",
     "static/media/vapiTalking.gif": "/medibrief/static/media/vapiTalking.de4e4aad409c139a00ed.gif",
     "index.html": "/medibrief/index.html",
-    "main.5a6f6fd0.css.map": "/medibrief/static/css/main.5a6f6fd0.css.map",
-    "main.2da01818.js.map": "/medibrief/static/js/main.2da01818.js.map",
+    "main.ed8c3b43.css.map": "/medibrief/static/css/main.ed8c3b43.css.map",
+    "main.e4357072.js.map": "/medibrief/static/js/main.e4357072.js.map",
     "453.00a9dfc2.chunk.js.map": "/medibrief/static/js/453.00a9dfc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a6f6fd0.css",
-    "static/js/main.2da01818.js"
+    "static/css/main.ed8c3b43.css",
+    "static/js/main.e4357072.js"
   ]
 }
